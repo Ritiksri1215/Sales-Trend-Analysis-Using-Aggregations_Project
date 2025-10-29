@@ -1,6 +1,6 @@
 # Sales Trend Analysis Using Aggregations_Project
 
-ask-6: Sales Trend Analysis (SQL Project)
+Task-6: Sales Trend Analysis (SQL Project)
 
 Objective:
 
@@ -31,6 +31,7 @@ The CSV file contained columns — order_id, order_date, amount, and product_id.
 After import:
 
 SELECT COUNT(*) AS total_rows FROM orders;
+
 SELECT * FROM orders LIMIT 5;
 
 Monthly Trend Analysis Query:
