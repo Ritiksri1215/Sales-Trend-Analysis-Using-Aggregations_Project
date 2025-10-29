@@ -23,9 +23,10 @@ CREATE TABLE orders (
   product_id  INTEGER
 );
 
-Data Import
+Data Import:
 
 The data was directly imported into the orders table (not using pgAdmin Import tool).
+
 The CSV file contained columns — order_id, order_date, amount, and product_id.
 
 After import:
